@@ -1,0 +1,201 @@
+Student_ID,Name,Subject,Attendance,Internal_Marks,Final_Marks
+101,Sanjay,Java,47,20,73
+102,Ritu,Networking,99,20,52
+103,Neha,Python,45,20,87
+104,Simran,Java,32,8,52
+105,Pooja,Python,85,13,58
+106,Sneha,DBMS,88,21,49
+107,Sanjay,Networking,38,8,69
+108,Simran,Java,88,15,60
+109,Priya,DBMS,46,25,59
+110,Anjali,Python,68,11,64
+111,Anjali,Python,97,19,56
+112,Karan,Java,84,21,77
+113,Rahul,DBMS,49,12,84
+114,Priya,Java,60,13,62
+115,Rahul,Data Science,63,22,34
+116,Kavita,Java,61,13,35
+117,Priya,Python,89,6,76
+118,Vivek,Data Science,48,6,32
+119,Vivek,DBMS,72,11,26
+120,Aditya,DBMS,85,17,21
+121,Aditya,Java,71,16,52
+122,Karan,DBMS,74,16,20
+123,Aditya,Java,74,23,20
+124,Aditya,DBMS,71,23,63
+125,Vivek,Networking,61,10,61
+126,Simran,Networking,33,8,57
+127,Arjun,Python,99,11,40
+128,Rahul,Networking,56,8,64
+129,Ritu,Networking,83,6,49
+130,Rahul,Data Science,75,14,35
+131,Meera,DBMS,45,9,84
+132,Kavita,Python,87,18,53
+133,Nisha,Java,65,22,70
+134,Pooja,Networking,52,21,52
+135,Anjali,DBMS,63,8,90
+136,Priya,Networking,70,19,62
+137,Priya,Data Science,60,16,68
+138,Arjun,Python,70,21,70
+139,Meera,Networking,55,13,53
+140,Ritu,DBMS,90,8,87
+141,Karan,DBMS,70,9,90
+142,Karan,Python,75,8,44
+143,Nisha,DBMS,73,5,52
+144,Karan,Python,94,6,83
+145,Vikas,Networking,72,14,84
+146,Meera,Java,33,5,88
+147,Vivek,DBMS,66,18,20
+148,Neha,Python,53,6,85
+149,Sanjay,Java,52,17,50
+150,Arjun,Java,33,21,45
+151,Neha,Data Science,40,17,32
+152,Ritu,Data Science,59,9,51
+153,Rahul,Data Science,35,14,56
+154,Karan,Data Science,80,8,66
+155,Vikas,DBMS,69,8,65
+156,Aditya,Java,97,21,76
+157,Pooja,Data Science,60,15,41
+158,Rohan,Networking,35,8,27
+159,Meera,Networking,32,19,87
+160,Amit,DBMS,55,17,61
+161,Rohan,Networking,78,25,68
+162,Kavita,Java,37,20,75
+163,Vivek,DBMS,94,10,57
+164,Sanjay,Networking,86,6,67
+165,Pooja,DBMS,70,19,35
+166,Vikas,Python,56,13,80
+167,Sanjay,Data Science,33,24,66
+168,Vikas,Data Science,32,11,52
+169,Rahul,Java,65,8,88
+170,Amit,DBMS,30,17,57
+171,Aditya,DBMS,84,22,37
+172,Ritu,Data Science,66,11,80
+173,Sanjay,Java,73,23,81
+174,Sanjay,Data Science,82,9,67
+175,Kavita,Java,98,18,59
+176,Anjali,Python,37,21,77
+177,Amit,Networking,55,8,89
+178,Sneha,Java,62,19,40
+179,Meera,Java,88,9,36
+180,Kavita,Data Science,85,23,68
+181,Ritu,Networking,34,13,84
+182,Ritu,Python,70,23,57
+183,Rohan,Java,72,25,51
+184,Aditya,DBMS,35,10,80
+185,Neha,Networking,67,15,54
+186,Priya,DBMS,94,22,46
+187,Vikas,Python,35,7,48
+188,Rohan,Java,67,6,40
+189,Meera,Networking,74,21,31
+190,Neha,Data Science,53,8,47
+191,Akash,DBMS,52,19,76
+192,Rohan,Java,99,5,57
+193,Ritu,Data Science,90,11,37
+194,Anjali,Data Science,90,15,52
+195,Vikas,Data Science,42,18,42
+196,Neha,Data Science,90,8,22
+197,Neha,DBMS,84,20,20
+198,Sanjay,DBMS,83,16,50
+199,Karan,DBMS,72,7,22
+200,Vikas,Java,53,23,57
+201,Meera,Java,60,10,69
+202,Ritu,DBMS,81,5,73
+203,Neha,Python,54,21,55
+204,Karan,Data Science,72,25,90
+205,Rahul,Java,63,9,41
+206,Sanjay,Networking,53,18,68
+207,Sneha,Python,74,9,63
+208,Sneha,DBMS,57,15,43
+209,Rahul,Data Science,89,25,60
+210,Rohan,Python,64,12,51
+211,Kavita,Java,65,10,55
+212,Pooja,DBMS,72,17,90
+213,Ritu,Data Science,50,21,60
+214,Karan,Data Science,51,20,34
+215,Kavita,Java,51,25,59
+216,Sanjay,Java,68,25,72
+217,Karan,Data Science,55,11,22
+218,Sneha,Data Science,86,8,88
+219,Karan,Data Science,64,22,44
+220,Simran,Java,53,5,26
+221,Meera,Networking,52,5,25
+222,Vivek,DBMS,52,6,49
+223,Arjun,Python,83,22,57
+224,Vikas,Python,49,9,80
+225,Sneha,Networking,32,17,22
+226,Vivek,DBMS,82,17,26
+227,Kavita,Python,46,8,43
+228,Vivek,Java,73,17,55
+229,Meera,Data Science,79,7,60
+230,Rahul,Data Science,35,8,63
+231,Vikas,DBMS,35,14,79
+232,Karan,DBMS,58,6,34
+233,Rahul,Data Science,89,10,44
+234,Amit,Python,48,15,32
+235,Anjali,Data Science,40,7,57
+236,Sneha,Networking,99,15,88
+237,Sneha,Networking,85,24,59
+238,Sneha,DBMS,49,16,70
+239,Neha,Java,31,13,24
+240,Anjali,Networking,98,17,47
+241,Akash,Java,87,11,34
+242,Nisha,DBMS,69,25,28
+243,Neha,Networking,50,5,24
+244,Rohan,Networking,38,9,73
+245,Kavita,Python,45,17,77
+246,Sneha,Data Science,84,22,77
+247,Akash,Java,30,10,59
+248,Neha,Python,83,13,83
+249,Sneha,DBMS,83,19,58
+250,Vikas,Python,76,18,79
+251,Vivek,Networking,81,12,66
+252,Arjun,DBMS,59,21,70
+253,Rahul,DBMS,76,7,33
+254,Kavita,Python,70,9,39
+255,Amit,Python,85,25,70
+256,Vivek,DBMS,52,22,21
+257,Simran,Java,30,14,28
+258,Kavita,Python,53,11,74
+259,Pooja,Networking,98,17,41
+260,Kavita,Networking,47,14,61
+261,Ritu,Networking,65,19,58
+262,Karan,Networking,84,18,43
+263,Sneha,DBMS,51,7,62
+264,Arjun,Data Science,35,20,50
+265,Rahul,DBMS,93,9,85
+266,Simran,DBMS,92,18,70
+267,Arjun,Networking,42,25,71
+268,Aditya,DBMS,56,13,44
+269,Simran,Networking,34,16,64
+270,Sneha,Data Science,63,16,75
+271,Sanjay,Python,65,7,22
+272,Arjun,DBMS,73,20,57
+273,Akash,Data Science,95,9,56
+274,Nisha,Python,44,18,82
+275,Pooja,DBMS,49,7,59
+276,Kavita,Python,82,10,90
+277,Simran,Data Science,94,9,86
+278,Ritu,Data Science,59,9,41
+279,Aditya,Networking,46,12,79
+280,Priya,Python,49,23,43
+281,Karan,Java,36,23,82
+282,Vikas,Java,33,12,31
+283,Akash,Networking,98,13,25
+284,Nisha,Java,71,19,60
+285,Simran,Networking,57,13,84
+286,Sanjay,Python,43,8,50
+287,Sanjay,Java,83,9,71
+288,Ritu,Networking,85,9,83
+289,Arjun,Networking,82,19,90
+290,Karan,Python,98,5,22
+291,Meera,Networking,39,6,80
+292,Vikas,Python,97,16,61
+293,Amit,DBMS,74,8,77
+294,Pooja,DBMS,96,14,64
+295,Rahul,DBMS,90,25,70
+296,Nisha,DBMS,100,8,74
+297,Meera,DBMS,94,10,80
+298,Meera,DBMS,66,6,70
+299,Priya,Python,36,5,88
+300,Rohan,DBMS,81,11,57
